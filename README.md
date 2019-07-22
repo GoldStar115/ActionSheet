@@ -1,1 +1,1 @@
-# ActionSheet
+# React native ActionSheet for Android & iOS
